@@ -1,2 +1,2 @@
-msgid "nas"
+msgid "NAS"
 msgstr "存储"
