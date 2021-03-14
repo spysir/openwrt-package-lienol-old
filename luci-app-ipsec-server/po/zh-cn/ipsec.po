@@ -13,6 +13,9 @@ msgstr "当前状态"
 msgid "General settings"
 msgstr "基本设置"
 
+msgid "Users Manager"
+msgstr "用户设置"
+
 msgid "VPN Client IP"
 msgstr "VPN客户端地址段"
 
