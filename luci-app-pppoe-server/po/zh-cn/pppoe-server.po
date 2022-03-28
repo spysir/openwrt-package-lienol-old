@@ -1,5 +1,5 @@
 msgid "PPPoE Server"
-msgstr "PPPoE 服务器"
+msgstr "PPPoE 服务"
 
 msgid "The PPPoE server is a broadband access authentication server that prevents ARP spoofing."
 msgstr "PPPoE服务器是一个宽带接入认证服务器，可以防止ARP欺骗."
