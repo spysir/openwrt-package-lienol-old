@@ -2,7 +2,7 @@ msgid "Syncthing"
 msgstr "同步助手"
 
 msgid "SyncThing Synchronization Tool"
-msgstr "syncthing同步工具"
+msgstr "syncthing"
 
 
 
